@@ -21,4 +21,4 @@ Important note:
 You must have an Android Studio emulator installed to watch the app run:
 https://developer.android.com/studio and if you don't want to install the emulator on your laptop, you can also download the Expo app from the Play Store or App Store https://play.google.com/store/apps/details?id=host.exp.exponent&hl=es_CR
 Also.
-You must have an account in https://expo.ino or you can run the expo sign command to register and then expo login to log in, you can also view your allied account with expo whoami and a message with the name of the partner account is displayed
+You must have an account in https://expo.io or you can run the expo sign command to register and then expo login to log in, you can also view your allied account with expo whoami and a message with the name of the partner account is displayed
